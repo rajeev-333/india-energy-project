@@ -54,7 +54,7 @@ Download both datasets from Kaggle and place them in the project root:
 india_energy_project/
 ├── Indias_Electricity_Consumption_Dataset.csv   ← download from Kaggle
 ├── india_monthly_electricity.csv                ← download from Kaggle
-├──Dash_look.jpg                                 ← Visualisation of how dashboard would look
+├── Dash_look.jpg                                 ← Visualisation of how dashboard would look
 ├── etl_pipeline.py                              ← Step 1: ETL
 ├── sql_analysis.py                              ← Step 2: SQL queries
 ├── dashboard.py                                 ← Step 3: Dashboard
